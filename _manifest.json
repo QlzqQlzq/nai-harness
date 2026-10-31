@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "id": "local.nai-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "nai harness",
-  "description": "NAI绘图、提示词解析、角色检索、引用反推与重画，支持多服务和密钥轮询。",
+  "description": "内置 Harness 提示词核心与自动联网检索，支持自然语言和混合 Tag 绘图、引用反推与重画，以及多服务和密钥轮询。",
   "author": {"name": "QlzqQlzq", "url": "https://github.com/QlzqQlzq"},
   "license": "MIT",
   "plugin_type": "creative",
