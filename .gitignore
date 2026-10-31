@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+config.toml
+config.json
+data/
+dist/
+review/
+*.sqlite3
+*.zip
